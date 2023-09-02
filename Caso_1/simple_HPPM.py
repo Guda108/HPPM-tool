@@ -11,7 +11,7 @@ rad_hyper=0.3          ### hyperspheres radius (step size)
 init_point=[0.0,0.0]   ## init point
 end_point=[600.0,500.0]    ## goal point
 n_hyper_max=1500   ### Max steeps
-file_slopes=r"Caso_1\pendientes.txt"
+file_slopes=r"Caso_1\slopes.txt"
 
 
 ### slopes file
