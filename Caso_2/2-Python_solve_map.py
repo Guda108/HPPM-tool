@@ -13,7 +13,7 @@ rad_hyper=0.1
 init_point=[100,100]   ## [x,y] pos
 end_point=[400,540]
 n_hyper_max=15000
-file_slopes=r"Caso_2\pendientes.txt"
+file_slopes=r"Caso_2\slopes.txt"
 
 
 ### slopes file
